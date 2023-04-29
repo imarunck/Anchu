@@ -1,1 +1,0 @@
-this is a opensource kannada font created by Arun C Kallappanavar.
