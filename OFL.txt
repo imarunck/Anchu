@@ -1,4 +1,4 @@
-Copyright 2020 The Texturina Project Authors (https://github.com/Omnibus-Type/Texturina)
+Copyright 2023 The Anchu Kannada Font authors (https://github.com/imarunck/Anchu)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
