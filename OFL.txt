@@ -1,4 +1,4 @@
-Copyright 2023 The Anchu Kannada Font authors (https://github.com/imarunck/Anchu)
+Copyright 2023 The Anchu Project Authors (https://github.com/imarunck/Anchu)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
