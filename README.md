@@ -1,6 +1,7 @@
 # Anchu
 Anchu is a Square, Edgy, Sharp font for the Kannada language. The design of the edge font is inspired by display pixels. This gives it a jagged, rigid look. Edge is perfect for use in digital designs. Establishes a modern, technological, pixel-perfect, and square feel. Only an angle of 90° is used in this font. Scripts in this font are Latin, and Kannada.\
 font-family - Anchu
+# Photos
 <p align="center">
  <img src="https://github.com/imarunck/Anchu/assets/76737603/289d2fda-b52f-4dad-a57a-e71054fedff1" width="512" height="512" />
 </p>
